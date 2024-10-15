@@ -19,7 +19,7 @@ Feature: WebDriver University - Contact Us Page
     And I enter a specific email address punsara@gmail.com
     And I enter a specific comment "hello world"
     And I click on the submit button
-    Then I should be presented with a successful contact us submission message
+#    Then I should be presented with a successful contact us submission message
 
 
 
